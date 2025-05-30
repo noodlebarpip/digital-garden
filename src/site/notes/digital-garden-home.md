@@ -8,3 +8,9 @@ Hello, World! I’m pip (they/them). I’m a queer neurodivergent nerd who loves
 
 You can contact at me [via email.](mailto:kokiaoakenlimb@gmail.com) Please let me know if you see any errors I need to correct or if you want me to know anything.
 
+[[table-of-contents\|You can look at some WIP here.]]
+
+[[source-MOCs\|A link to all my source notes]]
+
+### 🌿
+
